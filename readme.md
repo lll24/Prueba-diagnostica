@@ -11,9 +11,13 @@ Este repositorio contiene la solución de **3 problemas** correspondientes a la 
 
 ## 📁 Estructura del Proyecto
 Pruebas_diagnostica/
+
 ├── problema1.py     # Analizador léxico
+
 ├── problema2.py     # Validador FEN
+
 ├── problema3.py     # Conjetura de Collatz
+
 └── README.md        # Documentación
 
 
