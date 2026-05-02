@@ -11,10 +11,18 @@ Este repositorio contiene la solución de **3 problemas** correspondientes a la 
 
 ## 📁 Estructura del Proyecto
 Pruebas_diagnostica/
-├── problema1.py # Analizador léxico de expresiones aritméticas
-├── problema2.py # Validador de notación FEN (ajedrez)
-├── problema3.py # Verificador de la Conjetura de Collatz
-└── README.md # Este archivo
+│
+├── problema1.py          
+│   └── Analizador léxico - Clasifica números, operadores, operandos y paréntesis
+│
+├── problema2.py          
+│   └── Validador FEN - Verifica notación de ajedrez (6 campos)
+│
+├── problema3.py          
+│   └── Conjetura de Collatz - Verifica la conjetura 3n+1 en un intervalo [p,q]
+│
+└── README.md             
+    └── Documentación completa del proyecto
 
 
 ---
