@@ -31,5 +31,5 @@ Pruebas_diagnostica/
 ---
 
 ## 👤 Explicacion 
-link :
+link : https://youtu.be/wOiIfiBnedM
 (video de youtube)
